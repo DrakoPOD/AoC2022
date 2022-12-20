@@ -1,3 +1,4 @@
+// deno-lint-ignore-file no-var
 (async () => {
   var fs = require('fs').promises;
 
